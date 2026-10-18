@@ -1,7 +1,7 @@
 # SERE — Survive, Evade, Resist, Escape
 
 **A sandboxed cybersecurity training-simulation concept.**
-Version 2026.1 · Pre-revenue research prototype · Built by Herb Velez, Mythara Labs LLC
+Version 2026.1 · Pre-revenue research prototype · Mythara Labs LLC
 
 > SERE is defensive by recording. Anything offensive exists only inside the
 > sandboxed simulation — it never strikes outward. This is a training
@@ -38,7 +38,7 @@ as the foundation for a training sandbox, not as an operational capability.
 ## Layout
 
 - `sere_bot.py` — the core specimen-handling pipeline
-- `sere_aries.py` — Aries integration
+- `sere_aries.py` — ARES integration
 - `sere_course.py` — training course structure
 - `sere_crucible.py` — crucible exercises
 - `sere_slime.py` — slime-layer utilities
